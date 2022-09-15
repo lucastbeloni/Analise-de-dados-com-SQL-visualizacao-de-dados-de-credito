@@ -1,4 +1,4 @@
-# Analise-de-dados-com-SQL-visualizacao-de-dados-de-credito
+# **Análise de dados com SQL visualização de dados de crédito**
 
 *Esse projeto tem como finalidade analisar os dados de crédito usando SQL.*
 
