@@ -1,6 +1,6 @@
 # Analise-de-dados-com-SQL-visualizacao-de-dados-de-credito
 
-*Esse notebook faz parte do curso SQL para análise de dados da EBAC.*
+*Esse projeto tem como finalidade analisar os dados de crédito usando SQL.*
 
 ## Os dados: 
 
